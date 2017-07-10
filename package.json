@@ -1,0 +1,10 @@
+{
+  "name": "smorgas",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "http-server ./public"
+  },
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
